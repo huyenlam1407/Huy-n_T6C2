@@ -41,20 +41,6 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
 
-<table style="width:100%;">
-  <tr>
-    <td>
-    
-     
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 
