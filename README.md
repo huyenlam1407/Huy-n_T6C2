@@ -55,8 +55,12 @@
 </div>
 <h2 >⚡Team</h2>
 ✍ My team has 5 member.
+<br/>
 ✍ We design and build e-commerce websites.
+<br/>
 ✍ Including 2 developers, 2 interface and data designers, 1 tester and report.
+
 <h2 >⚡Project</h2>
 ✍ We have a project for a book selling website
+<br/>
 ✍ 
