@@ -53,4 +53,10 @@
 <div align="center">
   <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<h2 >⚡Team</h2>
+✍ My team has 5 member.
+✍ We design and build e-commerce websites.
+✍ Including 2 developers, 2 interface and data designers, 1 tester and report.
+<h2 >⚡Project</h2>
+✍ We have a project for a book selling website
+✍ 
