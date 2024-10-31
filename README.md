@@ -26,7 +26,7 @@
   </a>
 </p>
 
- <h2>Các kỹ năng:</h2> 
+ <h2>✨ Các kỹ năng:</h2> 
 <p align="center">
 
   <strong>Microsoft SQL Server:</strong>
@@ -61,7 +61,7 @@
 </p>
 
 
-# 👋 Ngôn ngữ thường dùng
+<h2>👋 Ngôn ngữ thường dùng</h2>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyenlam1407&layout=compact&theme=radical&langs_count=6" width="600" />
@@ -77,13 +77,12 @@
 ✍ nhà phát triển: đảm nhận lập trình, phát triển chức năng chính và đảm bảo hiệu suất trang web.<br />
 ✍ nhà thiết kế giao diện và dữ liệu: tập trung vào tạo giao diện thân thiện với người dùng và quản lý cấu trúc dữ liệu.<br />
 ✍ nhân viên kiểm thử: phụ trách đảm bảo chất lượng trang web và thực hiện các báo cáo cần thiết.<br />
-⚡ Dự Án<br />
+<h2>⚡ Dự Án </h2><br />
 ✍ Dự án hiện tại của chúng tôi là thiết kế một website bán sách.<br />
 # 📚 Trang Web Bán Sách
 
 Một trang web bán sách với đầy đủ tính năng, giúp người dùng mua sách dễ dàng và quản trị viên quản lý hiệu quả.
-
-## 🌟 Tính năng
+ <h2> 🌟 Tính năng Web bán sách </h2>
 
 ### Dành cho Người dùng
 - **Tìm kiếm và Lọc Sách**: Người dùng có thể tìm kiếm sách theo tên, tác giả, thể loại hoặc lọc theo giá.
