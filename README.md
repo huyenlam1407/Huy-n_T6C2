@@ -61,10 +61,15 @@
 </p>
 
 
-<h2 >⚡ Ngôn ngữ thường dùng ⚡</h2>
+# 👋 Ngôn ngữ thường dùng
+
 <div align="center">
-  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyenlam1407&layout=compact&theme=radical&langs_count=6" width="600" />
 </div>
+
+
+
+
 
 <br />
 <h2>⚡ Đội Nhóm  </h2> <br />
