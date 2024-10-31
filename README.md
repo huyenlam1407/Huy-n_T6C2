@@ -42,6 +42,19 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
  <h2>🐍 My Contributions 🐍</h2>
+
+<h2 >⚡ Stats ⚡</h2>
+<div align="center">
+  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+⚡ Đội Nhóm
+✍ Đội nhóm của tôi bao gồm 5 thành viên, hợp tác để thiết kế và xây dựng các trang thương mại điện tử. Mỗi người trong đội đều có vai trò và nhiệm vụ quan trọng:
+
+2 nhà phát triển: đảm nhận lập trình, phát triển chức năng chính và đảm bảo hiệu suất trang web.
+2 nhà thiết kế giao diện và dữ liệu: tập trung vào tạo giao diện thân thiện với người dùng và quản lý cấu trúc dữ liệu.
+1 nhân viên kiểm thử: phụ trách đảm bảo chất lượng trang web và thực hiện các báo cáo cần thiết.
+⚡ Dự Án
+✍ Dự án hiện tại của chúng tôi là thiết kế một website bán sách. Chúng tôi đang sử dụng các công nghệ như [danh sách công nghệ], chú trọng đến việc tối ưu trải nghiệm người dùng và tích hợp hệ thống quản lý giỏ hàng.
 <div align="center">
  
   <br>
@@ -49,18 +62,3 @@
   
   <br/><br/><br/>
 </div>
-<h2 >⚡ Stats ⚡</h2>
-<div align="center">
-  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<h2 >⚡Team</h2>
-✍ My team has 5 member.
-<br/>
-✍ We design and build e-commerce websites.
-<br/>
-✍ Including 2 developers, 2 interface and data designers, 1 tester and report.
-
-<h2 >⚡Project</h2>
-✍ We have a project for a book selling website
-<br/>
-✍ 
