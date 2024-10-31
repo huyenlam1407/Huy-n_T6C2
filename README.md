@@ -5,14 +5,14 @@
 
 <h2 align="center">Hi 👋, I'm Mỹ Huyền</h2>
 <p align="center">
-  <h3 align="center">I am a student studying information technology at a university in Vietnam </h3>
+  <h3 align="center">Hiện tôi đang là sinh viên năm 3 khoa Công Nghệ Thông Tin, chuyên nghành Phần mềm tại trường đại học tại Việt Nam </h3>
 </p>
 
-> ✍ I'm a student at HUFLIT University (https://huflit.edu.vn/).
+> ✍ Trường của tôi (https://huflit.edu.vn/).
 
 <br />
 
- <h2> 📫 How to reach me: </h2> 
+ <h2> 📫 Liện hệ: </h2> 
 
 <p align="center">
   <a href="https://www.facebook.com/myhuyen.lam.102/" alt="Facebook">
@@ -26,22 +26,42 @@
   </a>
 </p>
 
- <h2>Skills:</h2> 
+ <h2>Các kỹ năng:</h2> 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+
+  <strong>Microsoft SQL Server:</strong>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="microsoft sql server"/>
+  <br>
+
+  <strong>MySQL:</strong>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
+  <br>
+
+  <strong>MongoDB:</strong>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
+  <br>
+
+ 
+
+  <strong>Git:</strong>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+  <br>
+
+  <strong>GitHub:</strong>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="github"/>
+  <br>
+
+  <strong>Visual Studio Code:</strong>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode"/>
+  <br>
+
+  <strong>Visual Studio:</strong>
+  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png" alt="visual studio"/>
+  <br>
 </p>
-<h2 >⚡ Stats ⚡</h2>
+
+
+<h2 >⚡ Ngôn ngữ thường dùng ⚡</h2>
 <div align="center">
   <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
